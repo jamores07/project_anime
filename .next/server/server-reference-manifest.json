@@ -1,8 +1,8 @@
 {
   "node": {
-    "05ae8184d27172a2feb7e25e16bab508da62d0d6": {
+    "4abf14fb088eef4a1b8cd55b82608d6ba37db2a3": {
       "workers": {
-        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjohnamores%2FDesktop%2FDevelopment_Projects%2Fproject_anime%2Fapp%2Faction.ts%22%2C%5B%22fetchAnime%22%5D%5D%5D&__client_imported__=!"
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjohnamores%2FDesktop%2FDevelopment_Projects%2Fproject_anime%2Fapp%2Faction.tsx%22%2C%5B%22fetchAnime%22%5D%5D%5D&__client_imported__=!"
       },
       "layer": {
         "app/page": "rsc"
@@ -10,5 +10,5 @@
     }
   },
   "edge": {},
-  "encryptionKey": "mjCIVT8FexEYyeOvbH1avLqWky7YmTCCF3t+iVztlU4="
+  "encryptionKey": "gYyMlXw+s1xxNGsYjg+ZYdU4FJjGli1qxs6BRFchkLU="
 }

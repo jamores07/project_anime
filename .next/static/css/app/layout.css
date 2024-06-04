@@ -521,6 +521,9 @@ video {
   --tw-contain-paint:  ;
   --tw-contain-style:  ;
 }
+.visible {
+  visibility: visible;
+}
 .static {
   position: static;
 }
@@ -542,6 +545,9 @@ video {
 }
 .grid {
   display: grid;
+}
+.hidden {
+  display: none;
 }
 .h-\[37vh\] {
   height: 37vh;
@@ -695,6 +701,11 @@ video {
 .text-white {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
+}
+.transition {
+  transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 150ms;
 }
 
 body {
